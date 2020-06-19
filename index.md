@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Neko Rose Programming Adventure
 
-You can use the [editor on GitHub](https://github.com/xNinjaRose/xNinjaRose.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can see all my programs on this site eventually, mostly having to do with infosec :D
 
 ### Markdown
 
